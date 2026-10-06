@@ -1,4 +1,4 @@
-# AGENT.md — TSSCI Legal Citation Web Viewer
+# AGENT.md — Law Journals Citation Style Guide Reader
 
 > 本文件記錄本專案的開發規範、架構決策與維護注意事項。  
 > 內容為長期有效資訊，不包含一次性任務或需求細節。

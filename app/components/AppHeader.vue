@@ -2,7 +2,7 @@
   <header data-sticky>
     <nav>
       <ul>
-        <li><strong>TSSCI T1 法學引註格式</strong><small>（非官方）</small></li>
+        <li><strong>法學期刊引註格式凡例</strong><small>（非官方）</small></li>
       </ul>
       <ul>
         <li><a href="/">首頁</a></li>
