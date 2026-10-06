@@ -6,9 +6,9 @@ This project presents the citation style jointly developed by four TSSCI tier 1 
 
 本專案以網頁呈現臺灣四本法律學門 TSSCI 一級期刊共同制定的引註格式〈國科會人文處法律學門 TSSCI 一級期刊統一格式：法學期刊引註格式凡例（最後修訂時間：2026 年 05 月 18 日）〉，讓使用者不需要查閱 PDF，可以方便地在各種載具上瀏覽網頁。
 
-Please click on <[Law Journals Citation Style Guide](https://cite.jura.tw/)> to view. The homepage of this website provides a brief introduction to this project, while the search page offers filtering options by language and reference type.
+Please click on <[Law Journals Citation Style Guide](https://lex-hare.github.io/taiwan-law-journals-citation-reader)> to view. The homepage of this website provides a brief introduction to this project, while the search page offers filtering options by language and reference type.
 
-請點選〈[法學期刊引註格式凡例](https://cite.jura.tw/)〉來查看。這個網站首頁簡要介紹本專案，查詢頁面則提供依語言、依參考文獻類型來顯示的篩選功能。
+請點選〈[法學期刊引註格式凡例](https://lex-hare.github.io/taiwan-law-journals-citation-reader)〉來查看。這個網站首頁簡要介紹本專案，查詢頁面則提供依語言、依參考文獻類型來顯示的篩選功能。
 
 > This project is not provided by the NSTC or the TSSCI Tier-1 law journals. It only compiles their announced citation formats to establish a non-official search platform for easy reference. In case of any doubt, please refer to the official announcement documents.
 > 

@@ -1,6 +1,4 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
-
-const ASSET_BASE_URL = 'https://jura.tw/favicon'
+const ASSET_BASE_URL = 'https://lex-hare.github.io/favicon'
 
 export default defineNuxtConfig({
   compatibilityDate: '2026-06-28',
@@ -12,6 +10,7 @@ export default defineNuxtConfig({
     strict: true,
   },
   app: {
+    baseURL: '/taiwan-law-journals-citation-reader/',
     head: {
       htmlAttrs: { lang: 'zh-Hant-TW' },
       meta: [

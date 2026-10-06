@@ -8,7 +8,7 @@
     <p>
       <small>
         <a
-          href="https://github.com/jura-tw/taiwan-law-journals-citation-reader"
+          href="https://github.com/lex-hare/taiwan-law-journals-citation-reader"
           target="_blank"
           rel="noopener"
         >
