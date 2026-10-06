@@ -17,15 +17,15 @@
     <nav>
       <ul>
         <li v-for="cat in categories" :key="cat.code">
-          <a :href="`/citations#${anchorId(cat.code)}`" v-if="cat.code != '1.'">
+          <NuxtLink :to="`/taiwan-law-journals-citation-reader/citations#${anchorId(cat.code)}`" v-if="cat.code != '1.'">
             {{ cat.name }}
-          </a>
+          </NuxtLink>
         </li>
       </ul>
     </nav>
 
     <p>
-      <a href="/citations">引註格式總覽 →</a>
+      <NuxtLink to="/taiwan-law-journals-citation-reader/citations">引註格式總覽 →</NuxtLink>
     </p>
   </div>
 </template>
