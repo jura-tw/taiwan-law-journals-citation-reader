@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   compatibilityDate: '2026-06-28',
   future: { compatibilityVersion: 4 },
   devtools: { enabled: true },
-  modules: ['@nuxt/content', '@nuxt/fonts'],
+  modules: ['@nuxt/content', '@nuxt/fonts', '@nuxt/scripts'],
   css: ['@picocss/pico/css/pico.fluid.classless.min.css', '~/assets/css/main.css'],
   typescript: {
     strict: true,
