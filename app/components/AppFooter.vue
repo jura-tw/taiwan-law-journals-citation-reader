@@ -8,11 +8,19 @@
     <p>
       <small>
         <a
+          href="https://lex-hare.github.io"
+          target="_blank"
+          rel="noopener"
+        >
+          LexHare
+        </a>
+        :&nbsp;·&nbsp;
+        <a
           href="https://github.com/lex-hare/taiwan-law-journals-citation-reader"
           target="_blank"
           rel="noopener"
         >
-          GitHub
+          Open Source
         </a>
         &nbsp;·&nbsp; MIT License
       </small>
