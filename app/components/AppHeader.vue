@@ -6,7 +6,8 @@
       </ul>
       <ul>
         <li><NuxtLink to="/">首頁</NuxtLink></li>
-        <li><NuxtLink to="/taiwan-law-journals-citation-reader/citations">格式</NuxtLink></li>
+        <li><NuxtLink to="/citations">格式</NuxtLink></li>
+        <li><NuxtLink to="https://lex-hare.github.io/" class="secondary">LexHare</NuxtLink></li>
         <ClientOnly>
           <li><ThemeToggle /></li>
         </ClientOnly>

@@ -17,7 +17,7 @@
     <nav>
       <ul>
         <li v-for="cat in categories" :key="cat.code">
-          <NuxtLink :to="`/taiwan-law-journals-citation-reader/citations#${anchorId(cat.code)}`" v-if="cat.code != '1.'">
+          <NuxtLink :to="`/citations#${anchorId(cat.code)}`" v-if="cat.code != '1.'">
             {{ cat.name }}
           </NuxtLink>
         </li>
@@ -25,7 +25,7 @@
     </nav>
 
     <p>
-      <NuxtLink to="/taiwan-law-journals-citation-reader/citations">引註格式總覽 →</NuxtLink>
+      <NuxtLink to="/citations">引註格式總覽 →</NuxtLink>
     </p>
   </div>
 </template>
